@@ -4,5 +4,6 @@ class BlocoDeTreino {
   late String id;
   late String nome;
   late String obs;
+  late DateTime dataInicial;
   late List<TreinoDoDia> listaDeTreinoDoDia;
 }

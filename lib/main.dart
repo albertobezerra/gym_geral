@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:gym_dot/telas/cadastro/tela_de_cadastro.dart';
 import 'package:gym_dot/telas/login/tela_de_login.dart';
 
 void main() {
