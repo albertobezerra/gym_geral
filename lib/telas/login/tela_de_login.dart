@@ -1,12 +1,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:gym_dot/models/user_model.dart';
-import 'package:gym_dot/telas/tela_de_cadastro.dart';
-import 'package:gym_dot/values/preferences_keys.dart';
+import 'package:gym_dot/shares/models/login_model.dart';
+import 'package:gym_dot/telas/cadastro/tela_de_cadastro.dart';
+import 'package:gym_dot/shares/constantes/preferences_keys.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../values/cores.dart';
+import '../../shares/constantes/cores.dart';
 
 class TeladeLogin extends StatefulWidget {
   const TeladeLogin({super.key});

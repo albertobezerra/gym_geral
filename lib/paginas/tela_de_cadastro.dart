@@ -5,7 +5,7 @@ import 'package:gym_dot/shares/models/login_model.dart';
 import 'package:gym_dot/shares/constantes/preferences_keys.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../../shares/constantes/cores.dart';
+import '../shares/constantes/cores.dart';
 
 class TeladeCadastro extends StatefulWidget {
   const TeladeCadastro({super.key});
